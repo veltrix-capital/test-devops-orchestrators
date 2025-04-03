@@ -1,7 +1,7 @@
 #!/bin/bash
 
-REPO_URL="https://github.com/veltrix-capital/test-devops-orchestrator-ts.git"
-REPO_DIR="test-devops-orchestrator-ts"
+REPO_URL="https://github.com/veltrix-capital/test-devops-orchestrators.git"
+REPO_DIR="test-devops-orchestrators"
 
 # Step 1: Clone or update the repository
 if [ -d "$REPO_DIR/.git" ]; then

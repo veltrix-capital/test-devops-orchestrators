@@ -71,3 +71,4 @@ if [ ! -f .env ]; then
 fi
 
 echo "[Swap Optimizer Setup] Setup complete."
+npm run dev
